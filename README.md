@@ -246,7 +246,7 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 *Applications that run on your PC/Mac to complement your KOReader experience.*
 
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web dashboard for reading stats visualization, highlights management, and sync server. ⭐ 452+
-- [KoHighlights](https://github.com/a-t-0/KoHighlights) - Desktop GUI for browsing, filtering, and exporting highlights and notes from KOReader sidecar files.
+- [KoHighlights](https://github.com/noembryo/KoHighlights) - Desktop GUI for browsing, filtering, and exporting highlights and notes from KOReader sidecar files.
 - [koreader-calibre-plugin](https://github.com/harmtemolder/koreader-calibre-plugin) - Calibre plugin to sync reading progress, ratings, and annotations from KOReader `.sdr` metadata folders.
 
 ---
