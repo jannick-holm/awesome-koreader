@@ -216,6 +216,7 @@
 - [jmanteau/KOReader.patches](https://github.com/jmanteau/KOReader.patches) - Consolidates 13+ community patches into 3 unified Lua scripts for Cover Browser mosaic view.
 - [advokatb/KOReader-Patches](https://github.com/advokatb/KOReader-Patches) - Compatible with KOReader 2025.10 "Ghost" and Project: Title v3.5.
 - [omer-faruq/koreader-user-patches](https://github.com/omer-faruq/koreader-user-patches) - Various user patches from the creator of appstore.koplugin.
+- [zenixlabs/koreader-frankenpatches-public](https://github.com/zenixlabs/koreader-frankenpatches-public) - A collection of reading progress patches.
 
 ### Official Example Patches
 
