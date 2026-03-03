@@ -1,0 +1,91 @@
+name: Plugin Request
+description: Request or propose an idea for a new KOReader plugin
+title: "Plugin Request: [plugin idea]"
+labels: ["plugin request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to suggest an idea for a plugin you'd like to see built.
+        If a plugin already exists, use **Add a Resource** instead.
+
+  - type: input
+    id: name
+    attributes:
+      label: Plugin name / working title
+      description: A short name or working title for the plugin idea
+      placeholder: e.g. Reading Goal Tracker
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the workflow, limitation, or gap this plugin would address.
+      placeholder: e.g. There's no built-in way to set a daily page goal and track progress across books.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Proposed functionality
+      description: What should the plugin do? Describe the core features or behaviour.
+      placeholder: |
+        - Let the user set a daily reading goal (pages or minutes)
+        - Show a progress indicator in the status bar
+        - Send a summary notification when the goal is reached
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which area of KOReader would this plugin extend?
+      options:
+        - Reading & Progress Tracking
+        - Annotations & Notes
+        - Sync & Cloud
+        - AI & Assistants
+        - Library & Book Management
+        - UI / Appearance
+        - Accessibility
+        - Export & Integration
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Existing workarounds or alternatives
+      description: Are there any partial solutions, scripts, or external tools that come close?
+      placeholder: e.g. I currently do this manually in a spreadsheet, but it's tedious.
+
+  - type: textarea
+    id: prior-art
+    attributes:
+      label: Prior art or inspiration
+      description: Links to similar plugins from other e-readers, apps, or tools that inspired this idea.
+      placeholder: e.g. Kindle's Page Flip feature, Obsidian's Daily Notes plugin
+
+  - type: checkboxes
+    id: willing-to-help
+    attributes:
+      label: Contribution
+      options:
+        - label: I'm willing to help develop this plugin
+        - label: I'm willing to test early versions
+        - label: I can help with documentation
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have searched existing issues and this has not been requested before
+          required: true
+        - label: No existing plugin already covers this use case (I checked the README)
+          required: true
