@@ -266,6 +266,7 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 *Customize the visual appearance of KOReader.*
 
 - [Project: Title themes](https://github.com/joshuacant/ProjectTitle) - Project: Title supports icon packs and theming through user patches.
+- [readerbackdrop](https://www.readerbackdrop.com) - A collection of screensavers for KOReader devices.
 - [SeriousHornet icon patches](https://github.com/SeriousHornet/KOReader.patches) - Custom status icons and rounded cover patches for a polished look.
 - [WeatherLockscreen](https://github.com/loeffner/WeatherLockscreen) - Plugin that shows weather information on your device's sleep/lock screen.
 
