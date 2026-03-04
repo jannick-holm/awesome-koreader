@@ -98,7 +98,7 @@
 - [KoHighlights](https://github.com/noembryo/KoHighlights) - Desktop app for managing and exporting KOReader highlights and annotations.
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web-based dashboard for reading stats that also handles highlights sync and can act as a sync server. ⭐ 452+
 - [koreader-calibre-plugin](https://github.com/harmtemolder/koreader-calibre-plugin) - Sync KOReader sidecar metadata (progress, ratings, reviews, annotations) to Calibre.
-- [koreader2obsidian](https://github.com/t5k6/obsidian-koreader-highlights) - Export KOReader highlights directly to Obsidian notes.
+- [obsidian-koreader-highlights](https://github.com/t5k6/obsidian-koreader-highlights) - Export KOReader highlights directly to Obsidian notes.
 
 ---
 
