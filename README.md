@@ -175,6 +175,7 @@
 - [koreader/contrib: sudoku](https://github.com/koreader/contrib) - Sudoku game available in the official contrib collection.
 - [koreader/contrib: crosswords](https://github.com/koreader/contrib) - Crossword puzzle game in the contrib collection.
 - [koreader/contrib: word-search](https://github.com/koreader/contrib) - Word search puzzle in the contrib collection.
+- [solitaire.koplugin](https://github.com/Lalocaballero/solitaire.koplugin) - Brings the classic Klondike solitaire card game to your e-reader.
 
 ---
 
