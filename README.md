@@ -117,6 +117,7 @@
 - [miniflux.koplugin](https://github.com/AlgusDark/miniflux.koplugin) - Access a Miniflux RSS instance and read feed entries offline. ⭐ 63+
 - [readeck.koplugin](https://github.com/iceyear/readeck.koplugin) - KOReader plugin for Readeck read-it-later servers. ⭐ 63+
 - [opds_plus.koplugin](https://github.com/greywolf1499/opds_plus.koplugin) - Enhanced OPDS catalog browser for KOReader with visual cover display. ⭐ 57+
+- [quickrss.koplugin](https://github.com/qewer33/quickrss.koplugin) - A fast, standalone and easy to use RSS reader for KOReader. ⭐ 16+
 
 ---
 
