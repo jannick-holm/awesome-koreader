@@ -125,7 +125,7 @@
 
 *Connect KOReader to external reading tracking and book management services.*
 
-- [hardcover.koplugin](https://github.com/zionso/hardcover.koplugin) - Sync reading progress and status to [Hardcover.app](https://hardcover.app).
+- [hardcover.koplugin](https://github.com/Billiam/hardcoverapp.koplugin) - Sync reading progress and status to [Hardcover.app](https://hardcover.app).
 - [wallabag.koplugin](https://github.com/koreader/koreader/tree/master/plugins/wallabag.koplugin) - Built-in Wallabag integration — fetch and read saved articles offline (ships with KOReader).
 - [beeminder.koplugin](https://github.com/koreader/koreader/tree/master/plugins/beeminder.koplugin) - Built-in Beeminder integration for reading goal tracking (ships with KOReader).
 - [kobo.koplugin](https://github.com/OGKevin/kobo.koplugin) - Enhances the Kobo reading experience with additional features and integrations. ⭐ 79+
