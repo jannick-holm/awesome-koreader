@@ -147,6 +147,7 @@
 *Redesign menus, customize the interface, and create a more personal reading environment.*
 
 - [ProjectTitle](https://github.com/joshuacant/ProjectTitle) - Feature-rich homescreen/library UI plugin that transforms the Cover Browser into a beautiful, customizable interface. Supports user patches for endless personalization. ⭐ High
+- [simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) - Clean, distraction-free UI plugin that adds a dedicated Home Screen, a customizable bottom navigation bar, a top status bar, and a reworked library title bar for instant access to your library, history, and stats.
 - [Koreader-Menu-customizer](https://github.com/JoeBumm/Koreader-Menu-customizer) - Hide menus and plugins to simplify the KOReader UI and focus on reading. ⭐ 70+
 - [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) - Text-based web browser plugin for KOReader — browse the web from your e-reader. ⭐ 58+
 
