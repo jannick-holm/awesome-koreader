@@ -316,7 +316,6 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 - [r/koreader](https://www.reddit.com/r/koreader/) - The KOReader subreddit — share tips, patches, and ask for help.
 - [MobileRead Forums – KOReader](https://www.mobileread.com/forums/forumdisplay.php?f=276) - Long-running forum with deep historical knowledge of KOReader, patches, and device hacks.
 - [GitHub Discussions](https://github.com/koreader/koreader/discussions) - Official GitHub discussions for feature requests, support, and community interaction.
-- [KindleModShelf](https://kindlemodshelf.com) - Directory of Kindle-related tools and mods, including KOReader resources.
 - [GitHub Topic: koreader-plugin](https://github.com/topics/koreader-plugin) - Browse all 100+ repositories tagged with `koreader-plugin` on GitHub.
 - [GitHub Topic: koreader-user-patch](https://github.com/topics/koreader-user-patch) - Browse repositories tagged with `koreader-user-patch`.
 
