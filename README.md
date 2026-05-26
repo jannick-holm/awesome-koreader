@@ -39,6 +39,7 @@
 ## Official Resources
 
 - [koreader/koreader](https://github.com/koreader/koreader) - The main KOReader repository. Releases, issues, and source code.
+- [m-tky/koreader-tategumi](https://github.com/m-tky/koreader-tategumi) - KOReader fork for Japanese vertical writing (`writing-mode: vertical-rl`) in EPUBs with ruby, OTA updates, and RTL page order detection.
 - [koreader/contrib](https://github.com/koreader/contrib) - Official collection of non-official community plugins and scripts maintained under the KOReader org.
 - [KOReader Wiki](https://github.com/koreader/koreader/wiki) - Official wiki with installation guides, user patches documentation, and device-specific notes.
 - [KOReader Website](https://koreader.rocks) - Official website with download links and news.
