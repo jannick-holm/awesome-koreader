@@ -152,6 +152,7 @@
 - [simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) - Clean, distraction-free UI plugin that adds a dedicated Home Screen, a customizable bottom navigation bar, a top status bar, and a reworked library title bar for instant access to your library, history, and stats.
 - [Koreader-Menu-customizer](https://github.com/JoeBumm/Koreader-Menu-customizer) - Hide menus and plugins to simplify the KOReader UI and focus on reading. ⭐ 70+
 - [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) - Text-based web browser plugin for KOReader — browse the web from your e-reader. ⭐ 58+
+- [zen_ui.koplugin](https://github.com/AnthonyGress/zen_ui.koplugin) - A sleek, minimalist KOReader interface designed for distraction-free reading with customizable navigation, quick settings, and library enhancements. ⭐ 220+
 
 ---
 
