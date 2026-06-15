@@ -160,6 +160,7 @@
 
 *Track your reading habits, set goals, and review your statistics.*
 
+- [backlog.koplugin](https://github.com/cdrso/backlog.koplugin) - Per-article read tracking for anthology EPUBs (collections of standalone, interlinked essays): shows which pieces you've read, jumps to the next unread, and auto-marks each as you finish.
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web-based dashboard with charts and insights from your KOReader reading statistics. Self-hostable with Docker. ⭐ 452+
 - [readmastery.koplugin](https://github.com/Lalocaballero/readmastery.koplugin) - Transforms your reading into an RPG-style adventure — earn XP, level up, maintain streaks, and unlock achievements as you read.
 - [koreader-stats-exporter](https://github.com/bbb651/koreader-stats-exporter) - Export KOReader reading statistics to various formats for external analysis.
