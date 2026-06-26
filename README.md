@@ -89,6 +89,8 @@
 - [localsend.koplugin](https://github.com/kaikozlov/localsend.koplugin) - Send and receive files wirelessly on your e-reader using LocalSend protocol (no internet required). ⭐ 104+
 - [highlightsync.koplugin](https://github.com/gitalexcampos/highlightsync.koplugin) - Sync highlights, notes, and bookmarks across multiple devices using cloud storage (WebDAV, Dropbox, etc.). ⭐ 159+
 - [AnnotationSync.koplugin](https://github.com/dani84bs/AnnotationSync.koplugin) - Keep annotations in sync between devices with cloud-based storage. ⭐ 69+
+- [grimmory](https://github.com/grimmory-tools/grimmory) - Self-Hosted app to manage library, edit metadata, OPDS server, custom progress sync
+server and more. ⭐ 3,6K+
 
 ---
 
