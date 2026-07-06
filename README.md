@@ -12,6 +12,7 @@
 
 - [Official Resources](#official-resources)
 - [Plugin Management](#plugin-management)
+  - [Appstore Category Shortcuts](#appstore-category-shortcuts)
 - [AI & Assistants](#ai--assistants)
 - [Book Discovery & Downloads](#book-discovery--downloads)
 - [Sync & File Transfer](#sync--file-transfer)
@@ -57,6 +58,25 @@
 *Tools for discovering, installing, and managing plugins without leaving your device.*
 
 - [appstore.koplugin](https://github.com/omer-faruq/appstore.koplugin) - In-device app store: browse, install, update, and remove community plugins and patches directly from within KOReader. Searches GitHub topics `koreader-plugin` and `koreader-user-patch`. ⭐ 136+
+
+### Appstore Category Shortcuts
+
+*appstore.koplugin currently lists community plugins and patches without built-in categories. Use these sections in this list as a quick categorization index:*
+
+- [AI & Assistants](#ai--assistants)
+- [Book Discovery & Downloads](#book-discovery--downloads)
+- [Sync & File Transfer](#sync--file-transfer)
+- [Highlights & Annotations](#highlights--annotations)
+- [Dictionary & Language Learning](#dictionary--language-learning)
+- [RSS & Read-It-Later](#rss--read-it-later)
+- [Reading Services Integration](#reading-services-integration)
+- [Comics & Manga](#comics--manga)
+- [UI & Customization](#ui--customization)
+- [Reading Tracking & Goals](#reading-tracking--goals)
+- [Utilities & Tools](#utilities--tools)
+- [Games & Entertainment](#games--entertainment)
+- [Device-Specific](#device-specific)
+- [User Patches](#user-patches)
 
 ---
 
