@@ -133,6 +133,7 @@ server and more. ⭐ 3,6K+
 - [wallabag.koplugin](https://github.com/koreader/koreader/tree/master/plugins/wallabag.koplugin) - Built-in Wallabag integration — fetch and read saved articles offline (ships with KOReader).
 - [beeminder.koplugin](https://github.com/koreader/koreader/tree/master/plugins/beeminder.koplugin) - Built-in Beeminder integration for reading goal tracking (ships with KOReader).
 - [kobo.koplugin](https://github.com/OGKevin/kobo.koplugin) - Enhances the Kobo reading experience with additional features and integrations. ⭐ 79+
+- [neodb.koplugin](https://github.com/neodb-social/neodb.koplugin) - Sync comment / rating / progress / notes / highlights to [NeoDB](https://neodb.net), an open-sourced read tracking service and global community interconnected via ActivityPub and ATProto
 
 ---
 
