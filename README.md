@@ -226,6 +226,7 @@ server and more. ⭐ 3,6K+
 
 ### Kindle
 
+- [kindlebtcontroller.koplugin](https://github.com/finlater/kindlebtcontroller.koplugin) - Control page turns, brightness, chapter navigation, and other KOReader actions on supported Kindles with Bluetooth HID gamepads and remotes. ⭐ 72+
 - [ProjectTitle](https://github.com/joshuacant/ProjectTitle) - Added Kindle support in v2025.04+.
 
 ### reMarkable
