@@ -205,6 +205,7 @@ server and more. ⭐ 3,6K+
 
 *Because sometimes you just need a break.*
 
+- [♤♡ Card Station ♧♢](https://github.com/alfajrd/cardstation.koplugin) - One-stop card games for solo play, two players on the same device, or against the computer — FreeCell, Briscola, Scopa, Crazy Eights and more to come.
 - [koreader/contrib: sudoku](https://github.com/koreader/contrib) - Sudoku game available in the official contrib collection.
 - [koreader/contrib: crosswords](https://github.com/koreader/contrib) - Crossword puzzle game in the contrib collection.
 - [koreader/contrib: word-search](https://github.com/koreader/contrib) - Word search puzzle in the contrib collection.
