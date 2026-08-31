@@ -281,6 +281,7 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 
 *Applications that run on your PC/Mac to complement your KOReader experience.*
 
+- [Crossbill](https://github.com/Crossbill-App/crossbill-web) - Self-hosted web reading companion tool for guided active reading practice, managing highlights, notes, flashcards and more.
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web dashboard for reading stats visualization, highlights management, and sync server. ⭐ 452+
 - [KoHighlights](https://github.com/noembryo/KoHighlights) - Desktop GUI for browsing, filtering, and exporting highlights and notes from KOReader sidecar files.
 - [koreader-calibre-plugin](https://github.com/harmtemolder/koreader-calibre-plugin) - Calibre plugin to sync reading progress, ratings, and annotations from KOReader `.sdr` metadata folders.
