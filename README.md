@@ -275,6 +275,7 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 - [kosync-dotnet](https://github.com/jberlyn/kosync-dotnet) - Self-hostable KOReader sync server written in .NET — extends official server functionality.
 - [kosynco](https://github.com/koreader/koreader-sync-server) - Lightweight sync server variant (see community forks).
 - [Calibre-Web](https://github.com/janeczku/calibre-web) - Popular Calibre web interface that includes a KOReader-compatible OPDS server and sync endpoint.
+- [tsundoku](https://github.com/pid1/tsundoku) - Combined kosync server and OPDS 1.2/2.0 catalog that deploys as a single Cloudflare Worker on the free tier, with a web upload UI.
 
 ---
 
