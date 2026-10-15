@@ -121,6 +121,7 @@ server and more. ⭐ 3,6K+
 - [KoHighlights](https://github.com/noembryo/KoHighlights) - Desktop app for managing and exporting KOReader highlights and annotations.
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web-based dashboard for reading stats that also handles highlights sync and can act as a sync server. ⭐ 452+
 - [koreader-calibre-plugin](https://github.com/harmtemolder/koreader-calibre-plugin) - Sync KOReader sidecar metadata (progress, ratings, reviews, annotations) to Calibre.
+- [Nostos](https://github.com/Christian-Gennari/Nostos) - Self-hosted personal library and study that imports KOReader sidecar highlights and annotations into connected reading notes.
 - [KOReader-Obsidian-Sync](https://github.com/MySTerY1747/KOReader-Obsidian-Sync) - Remotely export KOReader highlights and import in structured Obsidian book note. ⭐ 17+
 - [obsidian-koreader-highlights](https://github.com/t5k6/obsidian-koreader-highlights) - Export KOReader highlights directly to Obsidian notes.
 
@@ -288,6 +289,7 @@ These are documented on the [User Patches Wiki](https://github.com/koreader/kore
 - [KoInsight](https://github.com/GeorgeSG/KoInsight) - Web dashboard for reading stats visualization, highlights management, and sync server. ⭐ 452+
 - [KoHighlights](https://github.com/noembryo/KoHighlights) - Desktop GUI for browsing, filtering, and exporting highlights and notes from KOReader sidecar files.
 - [koreader-calibre-plugin](https://github.com/harmtemolder/koreader-calibre-plugin) - Calibre plugin to sync reading progress, ratings, and annotations from KOReader `.sdr` metadata folders.
+- [Nostos](https://github.com/Christian-Gennari/Nostos) - Self-hosted reading companion and digital study with built-in OPDS server and direct KOReader annotation import.
 
 ---
 
