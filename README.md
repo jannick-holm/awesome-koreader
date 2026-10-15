@@ -97,6 +97,7 @@
 - [zlibrary.koplugin (OctoNezd)](https://github.com/OctoNezd/zlibrary.koplugin) - Alternative Z-Library client implementation for KOReader. ⭐ 193+
 - [zotero.koplugin](https://github.com/stelzch/zotero.koplugin) - Browse your Zotero collection on your e-reader and download papers and books. ⭐ 130+
 - [legado.koplugin](https://github.com/pengcw/legado.koplugin) - Web fiction reading plugin with Legado library support — browse and read from web sources. ⭐ 166+
+- [lofter.koplugin](https://github.com/ygud/lofter.koplugin) - LOFTER online fiction and article reader plugin for KOReader with search, tags, personal subscriptions, and offline cache.
 - [rakuyomi](https://github.com/hanatsumi/rakuyomi) - Manga reader plugin for KOReader with source/repository support. ⭐ 221+
 
 ---
