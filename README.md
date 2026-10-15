@@ -198,6 +198,7 @@ server and more. ⭐ 3,6K+
 - [kindle-quran](https://github.com/alfajrd/kindle-quran) - Read the Qur'an in Uthmani Arabic beside an English translation, fully offline, with dictionary lookup on the translation.
 - [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) - Text-based web browser inside KOReader. ⭐ 58+
 - [localsend.koplugin](https://github.com/kaikozlov/localsend.koplugin) - Wireless local file transfer. ⭐ 104+
+- [ink-away.koplugin](https://github.com/EmirErtorer/ink-away.koplugin) - Draw, take notes and write on any book in KOReader, with ink that stays with the text when the font changes, layers, pressure pens and palm rejection. ⭐ 53+
 
 ---
 
