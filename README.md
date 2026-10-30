@@ -125,6 +125,7 @@ server and more. ⭐ 3,6K+
 - [Nostos](https://github.com/Christian-Gennari/Nostos) - Self-hosted personal library and study that imports KOReader sidecar highlights and annotations into connected reading notes.
 - [KOReader-Obsidian-Sync](https://github.com/MySTerY1747/KOReader-Obsidian-Sync) - Remotely export KOReader highlights and import in structured Obsidian book note. ⭐ 17+
 - [obsidian-koreader-highlights](https://github.com/t5k6/obsidian-koreader-highlights) - Export KOReader highlights directly to Obsidian notes.
+- [screvi.koplugin](https://github.com/screvi/screvi-koreader-plugin) - Sync KOReader highlights and notes to [Screvi](https://screvi.com), a paid highlights manager with spaced-repetition review, connecting via QR code and auto-syncing when you close a book.
 
 ---
 
