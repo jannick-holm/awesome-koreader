@@ -112,6 +112,7 @@
 - [AnnotationSync.koplugin](https://github.com/dani84bs/AnnotationSync.koplugin) - Keep annotations in sync between devices with cloud-based storage. ⭐ 69+
 - [grimmory](https://github.com/grimmory-tools/grimmory) - Self-Hosted app to manage library, edit metadata, OPDS server, custom progress sync
 server and more. ⭐ 3,6K+
+- [PageDrop](https://github.com/spandan-kumar/PageDrop) - Android app that finds books on your phone and sends them to KOReader on a jailbroken Kindle over Wi-Fi, using KOReader's built-in SSH server.
 
 ---
 
