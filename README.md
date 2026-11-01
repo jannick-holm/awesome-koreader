@@ -224,6 +224,7 @@ server and more. ⭐ 3,6K+
 
 ### Kobo
 
+- [kobo-webbrowser.koplugin](https://github.com/medio4/kobo-webbrowser.koplugin) - Full-screen touch web browser for Kobo (uses the firmware's Qt WebKit); save articles as EPUBs.
 - [kobo.koplugin](https://github.com/OGKevin/kobo.koplugin) - Enhances Kobo-specific features within KOReader. ⭐ 79+
 - [KoboUSBMS](https://github.com/koreader/KoboUSBMS) - Standalone USB Mass Storage mode toggle for Kobo devices.
 
