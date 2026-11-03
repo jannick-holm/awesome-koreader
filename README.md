@@ -196,6 +196,7 @@ server and more. ⭐ 3,6K+
 ---
 
 ## Utilities & Tools
+- [txt2epub](https://github.com/Gh9518/txt2epub) - KOReader plugin to convert the currently opened TXT file into an EPUB with a multi-level TOC and typography presets, baked into style.css at conversion time. 一键把 TXT 转成带多级目录与排版精修的 EPUB 的 KOReader 插件。
 
 *Miscellaneous plugins that add useful functionality.*
 
