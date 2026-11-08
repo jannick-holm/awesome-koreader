@@ -167,7 +167,7 @@ server and more. ⭐ 3,6K+
 
 - [rakuyomi](https://github.com/hanatsumi/rakuyomi) - Full-featured manga reader plugin with source support and chapter management. ⭐ 221+
 - [comicreader.koplugin](https://github.com/KORComic/comicreader.koplugin) - Enhanced comic reading experience with dual-page support, metadata extraction, and navigation improvements. ⭐ 60+
-- [Panels+](https://github.com/KristanLaimon/PanelsPlus) - Panel-by-panel manga and comic reader for KOReader with RTL/LTR modes, gesture support, smooth panel transitions and native support for other manga-related plugins. ⭐ 92+
+- [Panels+](https://github.com/KristanLaimon/PanelsPlus) - Panel-by-panel manga and comic reader for KOReader with RTL/LTR modes, gesture support, smooth panel transitions + integration with other KOReader plugins. ⭐ 92+
 
 ---
 
