@@ -135,6 +135,7 @@ server and more. ⭐ 3,6K+
 *Integrate vocabulary tools and spaced repetition systems.*
 
 - [anki.koplugin](https://github.com/Ajatt-Tools/anki.koplugin) - Generate Anki flashcards from words looked up in KOReader's built-in dictionary. Works with AnkiConnect. ⭐ 179+
+- [ipaoverlay.koplugin](https://github.com/micheleo/koreader-ipa-overlay) - Shows the IPA pronunciation above every word of the page, for English (US/UK) and Italian, with dictionaries downloaded on the device.
 
 ---
 
