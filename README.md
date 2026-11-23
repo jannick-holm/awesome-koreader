@@ -233,6 +233,7 @@ server and more. ⭐ 3,6K+
 
 ### Kindle
 
+- [aloud.koplugin](https://github.com/nour-am/aloud#install) - Control Aloud's background audiobook playback from KOReader menus and gestures on jailbroken audio-capable Kindles running firmware 5.x.
 - [kindlebtcontroller.koplugin](https://github.com/finlater/kindlebtcontroller.koplugin) - Control page turns, brightness, chapter navigation, and other KOReader actions on supported Kindles with Bluetooth HID gamepads and remotes. ⭐ 72+
 - [ProjectTitle](https://github.com/joshuacant/ProjectTitle) - Added Kindle support in v2025.04+.
 
