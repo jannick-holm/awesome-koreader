@@ -178,6 +178,7 @@ server and more. ⭐ 3,6K+
 - [ProjectTitle](https://github.com/joshuacant/ProjectTitle) - Feature-rich homescreen/library UI plugin that transforms the Cover Browser into a beautiful, customizable interface. Supports user patches for endless personalization. ⭐ High
 - [simpleui.koplugin](https://github.com/doctorhetfield-cmd/simpleui.koplugin) - Clean, distraction-free UI plugin that adds a dedicated Home Screen, a customizable bottom navigation bar, a top status bar, and a reworked library title bar for instant access to your library, history, and stats.
 - [Koreader-Menu-customizer](https://github.com/JoeBumm/Koreader-Menu-customizer) - Hide menus and plugins to simplify the KOReader UI and focus on reading. ⭐ 70+
+- [toumo](https://github.com/shxxyz/toumo) - Adds paper grain and faint ink from adjacent pages to horizontal and vertical EPUB layouts.
 - [webbrowser.koplugin](https://github.com/omer-faruq/webbrowser.koplugin) - Text-based web browser plugin for KOReader — browse the web from your e-reader. ⭐ 58+
 - [zen_ui.koplugin](https://github.com/AnthonyGress/zen_ui.koplugin) - A sleek, minimalist KOReader interface designed for distraction-free reading with customizable navigation, quick settings, and library enhancements. ⭐ 220+
 - [screensaver-overlay.koplugin](https://github.com/aureliofng/screensaver-overlay.koplugin) - Overlays a transparent PNG image over the current book page when the device suspends. Supports random image rotation and only changes image after reading activity.
